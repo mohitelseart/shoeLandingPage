@@ -1,0 +1,112 @@
+
+@media (max-width:480px){
+    .works-card img{
+        width: 100%;
+    }
+    .banner-sect {
+        margin-top: 0rem !important;
+    }
+    .demo-form {
+        top: 0 !important;
+        left: -9px !important;
+        margin-top: -12rem !important;
+    }
+    .content-landing {
+        top: -170px !important;}
+        .banner-heading {
+            font-size: 13px !important;
+        }
+        .banner-para{
+            font-size: 10px !important;
+            margin-top: -36px;
+        }
+        .Name, .password {
+            display: block !important;
+        }
+        .demo-form1{
+            display: none !important;
+        }
+        .vision {
+            margin-top: 44rem !important;
+        }
+        
+        .posture-img img {
+            height: 200px !important;
+        }
+        .posture-content {
+            top: -185px !important;
+        }
+        .vision img {
+            display: none !important;
+        }
+        .our-mission {
+            position: relative !important;
+            top: 0 !important;
+            right: 0 !important;
+        }
+        .mission-para{
+            position: relative !important;
+    top: 0px !important;
+    width: 100% !important;
+    right: 0 !important;
+        }
+        .our-vision {
+            position: relative !important;
+            top: 0 !important;
+            right: 0 !important;
+        }
+        .vision-para{
+            position: relative !important;
+    top: 0px !important;
+    width: 100% !important;
+    left: 0 !important;
+        }
+        .footer img {
+            display: none !important;
+        }
+        .quote-btn{
+            width: 32% !important;
+        }
+        .cont-footer {
+            position: relative;
+            bottom: 0 !important;
+        }
+        .customer-head h5{
+            font-size: 17px;
+        }
+        .customer-head span{
+            font-size: 13px !important;
+        }
+
+       
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .dismiss-btn{
+    right: 20% !important;
+    top: 6% !important;
+}
+.dismiss-btn a {
+    padding: 6px 14px !important;
+    height: 40px !important;
+    width: 40px !important;
+}
+.buttons {
+    width: 94% !important;
+    bottom: 28px !important;
+} 
+.bakery-head-detail h4 {
+    margin-left: -43px !important;
+        font-size: 12px !important;
+}   
+.bakery-head-detail span {
+    margin-left: -42px !important;
+}
+.logo-bakery img {
+    width: 50% !important;
+}
+.head-bakery {
+    margin: 2rem 0px 0px -3rem !important;
+}
+}
+
